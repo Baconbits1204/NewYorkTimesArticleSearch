@@ -1,1 +1,7 @@
-
+.jumbotron {
+    background: rgb(42, 42, 108);
+    margin: 2px;
+    padding: 0, 2px, 0 , 2px;
+    width: 98%;
+    text-align: center;
+}
